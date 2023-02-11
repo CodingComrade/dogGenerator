@@ -45,6 +45,7 @@ table {
 html {
   background-color: lightblue;
   font-size: 62.5%;
+  font-family: "Trocchi", serif;
 }
 
 #main {
@@ -56,7 +57,7 @@ html {
 
 #dog, #dogName {
   text-decoration: none;
-  font-size: 36px;
+  font-size: 3rem;
   color: black;
 }
 
@@ -78,14 +79,13 @@ img {
 }
 
 #selectBox {
-  width: 140px;
-  height: 30px;
-  border: 1px solid #999;
-  font-size: 18px;
+  width: 10%;
+  height: 5%;
+  font-size: 2rem;
   color: black;
   background-color: #eee;
   border-radius: 5px;
-  box-shadow: 4px 4px #ccc;
+  font-family: "Trocchi", serif;
 }
 
 div, #dropdown {
